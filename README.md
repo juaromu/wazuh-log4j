@@ -1,0 +1,1 @@
+# wazuh-log4j
