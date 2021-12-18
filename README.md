@@ -22,7 +22,7 @@ Wazuh remote commands execution must be enabled in the Wazuh agent.
 2. The process ID, log4j version, JNDI enabled condition and process command line will be collected.
 3. The output is formatted to JSON and appended to the agent’s active responses log file.
 
-Remote commands execution must be enabled in the agent (Docker host), file “local_internal_options.conf”:
+Remote commands execution must be enabled in the agent, file “local_internal_options.conf”:
 
 
 ```
